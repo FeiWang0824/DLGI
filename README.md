@@ -1,5 +1,5 @@
 # DLGI
-demo code for [Learning from simulation: An end-to-end deep-learning approach for computational ghost imaging] (https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25560&id=417106###).
+demo code for ![Learning from simulation: An end-to-end deep-learning approach for computational ghost imaging] (https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25560&id=417106###).
 
 ## Citation
 If you find this project useful, we would be grateful if you cite the **DLGI paper：**
@@ -32,5 +32,7 @@ Our pretrained model is available at [DLGI](https://drive.google.com/file/d/12Dm
 
 **Step 4: run test.py to test on experimental data**
 
+## Results
+![avatar](https://opg.optica.org/getimagev2.cfm?img=lpPlLTEXInXX6MLyDMvBFDVCRka7tl0PN9%2BqTuSQxwI%3D)
 ## License
 For academic and non-commercial use only.
