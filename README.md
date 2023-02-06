@@ -10,7 +10,7 @@ Fei Wang, Hao Wang, Haichao Wang, Guowei Li, and Guohai Situ, Learning from simu
 Artificial intelligence (AI) techniques such as deep learning (DL) for computational imaging usually require to experimentally collect a large set of labeled data to train a neural network. Here we demonstrate that a practically usable neural network for computational imaging can be trained by using simulation data. We take computational ghost imaging (CGI) as an example to demonstrate this method. We develop a one-step end-to-end neural network, trained with simulation data, to reconstruct two-dimensional images directly from experimentally acquired one-dimensional bucket signals, without the need of the sequence of illumination patterns. This is in particular useful for image transmission through quasi-static scattering media as little care is needed to take to simulate the scattering process when generating the training data. We believe that the concept of training using simulation data can be used in various DL-based solvers for general computational imaging.
 
 ## Overview
-![avatar](https://opg.optica.org/getimagev2.cfm?img=3%2FPol3TRwJUHM5YnekB2JejOsKfzTcqiyyyui5IapKA%3D)
+![avatar](https://opg.optica.org/getimagev2.cfm?img=46zJdtApaV97%2B9ndrYMkWFLBoAafOUC8FhR2zAxpBpA%3D)
 
 ## How to use
 **Step 1: prepare required packages**
