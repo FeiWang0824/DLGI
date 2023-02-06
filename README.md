@@ -28,11 +28,12 @@ pillow 7.1.2
 **Step 2: extract the data.zip file.**
 
 **Step 3: run train.py to train the DNN using simulated data**
-Our pretrained model is available at [DLGI](https://drive.google.com/file/d/12DmpaUAVgL5srvdEyst4M0ZEYAwpF9Sw/view?usp=sharing).
+
+Our pretrained model is available at [DLGI_pretrained_model](https://drive.google.com/file/d/12DmpaUAVgL5srvdEyst4M0ZEYAwpF9Sw/view?usp=sharing).
 
 **Step 4: run test.py to test on experimental data**
 
 ## Results
-![avatar](https://opg.optica.org/getimagev2.cfm?img=lpPlLTEXInXX6MLyDMvBFDVCRka7tl0PN9%2BqTuSQxwI%3D)
+![avatar](img src='https://opg.optica.org/getimagev2.cfm?img=lpPlLTEXInXX6MLyDMvBFDVCRka7tl0PN9%2BqTuSQxwI%3D' width = '500'/)
 ## License
 For academic and non-commercial use only.
