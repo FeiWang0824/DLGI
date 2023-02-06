@@ -35,5 +35,6 @@ Our pretrained model is available at [DLGI_pretrained_model](https://drive.googl
 
 ## Results
 <img src='https://opg.optica.org/getimagev2.cfm?img=lpPlLTEXInXX6MLyDMvBFDVCRka7tl0PN9%2BqTuSQxwI%3D' width = '800'/>
+
 ## License
 For academic and non-commercial use only.
